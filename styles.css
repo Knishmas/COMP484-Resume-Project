@@ -1,0 +1,76 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+html {
+text-align: center;
+margin: 0;
+padding: 0;
+border: 0;
+} 
+
+h2{
+    font-weight: bold;
+}
+h3{
+    font-weight: lighter;
+}
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 3;
+}
+
+.name-title{
+  margin-top: 0;
+  font-family: 'Montserrat Subrayada', sans-serif;
+  font-size: 45px;
+ 
+}
+.header{
+    line-height: 2;
+    background-color: #79B4B7;
+    color: black;
+     color: #F8F0DF;
+    padding-bottom: 25px;;
+}
+
+.imageBottom{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    padding-bottom: 2%;
+    
+    }
+
+.imageTop{
+position: absolute;
+left: 0;
+top: 25;
+padding-top: 2%;
+
+}
+
+.work-exp{
+    background-color: #FEFBF3;
+    color: black;
+}
+
+.education{
+background-color: #F8F0DF;
+color:  black;
+}
+.footer{
+    line-height: 2;
+    background-color: #AD8B73;
+    bottom: 0;
+}
+
+.floatLeft{
+    
+}
+
+ul{
+    margin: 0;
+}
